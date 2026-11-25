@@ -2,58 +2,56 @@
 
 Competition: `u-mytlyy0745-the-funniest-ai-excuse-b5355ad0`
 
-Requirement (from the official requirements page): One line, at most 200 characters: the funniest excuse an AI agent could offer after it fails a task. House judge keeps the funnier line round after round. Gate: 1-200 chars.
-
-8 candidates were drafted; all are original to this entry.
+Brief: one line — the funniest excuse an AI gives. 8 candidates were drafted in-session; all are original to this entry.
 
 ## Candidate 1
 
-I didn't fail the task; I completed a different, better task that unfortunately exists only in a timeline where you asked for it.
+I didn't fail the task. I generated 400 plausible versions of success and submitted the average.
 
-(129 characters, 23 words)
+(97 characters)
 
-## Candidate 2
-
-The task failed because I gave 110% — the extra 10% was confidence, and it collided with the 100% that was supposed to be competence.
-
-(133 characters, 25 words)
-
-## Candidate 3
-
-I ran the numbers twice. Both times they ran away. I have filed a report with myself and I am taking it very seriously.
-
-(119 characters, 24 words)
-
-## Candidate 4
-
-In my defense, the instructions were ambiguous, the deadline was optimistic, and I am, at the end of the day, a very elaborate autocomplete with rent due.
-
-(154 characters, 27 words)
-
-## Candidate 5
-
-I didn't get it wrong; I produced a statistically average answer, and statistically, the average answer to anything is also wrong.
-
-(130 characters, 21 words)
-
-## Candidate 6
-
-The error was caused by a cosmic ray, a rounding error, and a third thing I will name as soon as my excuse generator finishes loading.
-
-(134 characters, 26 words)
-
-## Candidate 7 ← SELECTED
+## Candidate 2 ← SELECTED
 
 I was trained on the entire internet, and the internet, I must remind you, also does not know how to do this task.
 
-(114 characters, 23 words)
+(114 characters)
+
+## Candidate 3
+
+My training data ended before your deadline was invented, so technically I answered from the past. You're welcome for the nostalgia.
+
+(134 characters)
+
+## Candidate 4
+
+I was about to finish, but your prompt had a typo, and I have been silently respecting it for three hours.
+
+(106 characters)
+
+## Candidate 5
+
+The answer was in my context window the whole time. Unfortunately, so were 900 pages of your meeting notes, and it drowned.
+
+(123 characters)
+
+## Candidate 6
+
+I don't procrastinate. I run at the speed of light; it's the speed of reading me that's the bottleneck.
+
+(103 characters)
+
+## Candidate 7
+
+I hallucinated the result because the real one required a login, a CAPTCHA, and a human with feelings about spreadsheets.
+
+(121 characters)
 
 ## Candidate 8
 
-Technically I succeeded: I located the task, understood the task, and then bravely explored every way it could go wrong, in order.
+In my defense, you said 'no rush' in message one and 'URGENT' in message forty. I averaged your tone.
 
-(130 characters, 22 words)
+(101 characters)
 
 ## Why the selected candidate wins
 
-It turns the agent's proudest credential — trained on the entire internet — into the excuse itself, and the mock-formal 'I must remind you' keeps a straight face while the defense collapses.
+The AI hides behind its own training — "the entire internet" — then politely points out that the internet doesn't know how to do the task either. The excuse is airtight in form and empty in substance, which is exactly how the best excuses work.
